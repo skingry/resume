@@ -1,0 +1,124 @@
+{
+  "name": {
+    "first": "Seth",
+    "initial": "J.",
+    "last": "Kingry"
+  },
+  "phone_number": {
+    "area_code": "408",
+    "prefix": "334",
+    "extension": "3195"
+  },
+  "email": "sjkingry@gmail.com",
+  "social_media": [
+    "Twitter": "http://www.twitter.com/skingry",
+    "Github": "http://www.github.com/skingry",
+    "LinkedIn": "http://www.linkedin.com/in/sethkingry/"
+  ],
+  "postal_address": {
+    "street": "1227 Escalero Ave.",
+    "city": "Pacifica",
+    "state": "California",
+    "zip": "94044"
+  },
+  "description": "Independently motivated individual looking to join a start-up minded company. Well versed in many flavors of Unix (Linux, SmartOS/Solaris, FreeBSD) with an emphasis on cloud infrastructure, virtualization, and maintenance. Skilled in web-scale architectures and performance tuning, database clustering and high availability, systems configuration automation (Puppet/Chef), highly available filesystems (HA-NFS using DRBD hardware layers, ZFS, etc.), Xen hypervisor and SmartOS zone based system virtualization, and disaster recovery planning.",
+  "skill_set": {
+    "os": [
+      "Linux",
+      "SmartOS (Solaris)",
+      "FreeBSD"
+    ],
+    "configuration_managment": [
+      "Chef",
+      "Puppet"
+    ],
+    "database": [
+      "MySQL (Percona)",
+      "PostgreSQL",
+      "MongoDB"
+    ],
+    "cloud_providers": [
+      "Joyent",
+      "Amazon AWS",
+      "Rackspace",
+      "Xen"
+    ],
+    "coding_languages": [
+      "Ruby",
+      "PHP",
+      "Bash"
+    ],
+    "networking": [
+      "Cisco",
+      "Juniper"
+    ],
+  },
+  "experience": {
+    "ModCloth": {
+      "time_start": "October 2011",
+      "time_end": "On Going",
+      "location": "San Francisco, CA",
+      "position": "Lead Systems Engineer"
+      "highlights": [
+        "Built and maintained public/private cloud infrastructure platform based on Joyent's SmartOS IaaS offering (SmartDataCenter)",
+        "Developed the standardized procedures used by all engineering teams during regular application deployments with Chef and Capistrano.",
+        "Provided operational support for all web properties (external and internal).",
+        "Supported Cisco networking/firewall equipment, Nginx/HAProxy based load balancers, Ruby application stack, and all data layers (MySQL, PostgreSQL, Solr, Redis).",
+        "Provided production monitoring solutions using Circonus and Nagios.",
+        "Implemented DDoS protection utilizing Cloudflare.",
+        "Database administrator for all engineering groups (business intelligence, e-commerce, social media, etc)."
+      ]
+    },
+    "SugarCRM": {
+      "time_start": "September 2008",
+      "time_end": "September 2011",
+      "location": "Cupertino, CA and Atlanta, GA",
+      "position": "Operations Engineer"
+      "highlights": [
+        "Maintained private cloud infrastructure in two remote data centers (San Jose, CA and London, England).",
+        "Implemented Puppet server management and Cobbler server provisioning systems across private cloud.",
+        "Maintained and verified internal and customer backups using internal custom applications.",
+        "Virtualized redundant and under utilized systems using Xen hypervisor.",
+        "Laid groundwork for department disaster recovery policy.",
+        "Worked remotely from Atlanta, GA." 
+    },
+    "NationalNet": {
+      "time_start": "October 2004",
+      "time_end": "September 2008",
+      "location": "Atlanta, GA",
+      "position": "Systems Administrator"
+      "highlights": [
+        "Maintained company’s ~2500 Debian Linux and FreeBSD servers.",
+        "Maintained client large scale PHP/MySQL applications running across load balanced web front ends and clustered database servers.",
+        "Implemented network monitoring system based on SNMP and watchdogd.^LPorted company custom Linux applications to FreeBSD.",
+        "Implemented local FreeBSD CVS source mirror and compiled custom distributions for internal company use."
+    }
+  },
+  "education": {
+    "Kennesaw State University": {
+      "location": "Kennesaw, GA",
+      "time_start": "2003",
+      "time_end": "2004",
+      "course_of_study": "Mathematics",
+      "extra_curricular": [
+        "Linux User's Group"
+      ]
+    },
+    "Southern Polytechnic State University": {
+      "location": "Marietta, GA",
+      "time_start": "1998",
+      "time_end": "2001",
+      "course_of_study": "Physics",
+      "extra_curricular": [
+        "Aerial Robotics Team"
+      ]
+    }
+  },
+  "other_interests": [
+    "small scale farming",
+    "mountain biking",
+    "pyrotechnics",
+    "independent films"
+  ]
+}
+
