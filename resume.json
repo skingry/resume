@@ -80,12 +80,12 @@
             "position": "Systems Engineer",
             "highlights": [
                 "Built and maintained public/private cloud infrastructure platform based on Joyent's SmartOS IaaS offering (SmartDataCenter)",
-                "Developed the standardized procedures used by all engineering teams during regular application deployments with Chef and Capistrano.",
+                "Developed the standardized procedures used by all engineering teams during regular application deployments using Chef and Capistrano.",
                 "Provided operational support for all web properties (external and internal).",
                 "Supported Cisco networking/firewall equipment, Nginx/HAProxy based load balancers, Ruby application stack, and all data layers (MySQL, PostgreSQL, Solr, Redis).",
-                "Provided production monitoring solutions using Circonus and Nagios.",
-                "Implemented DDoS protection utilizing Cloudflare.",
-                "Database administrator for all engineering groups (business intelligence, e-commerce, social media, etc)."
+                "Developed plan and implemented monitoring solution using Circonus and Nagios with an API based provisioning backend.",
+                "Implemented DDoS protection utilizing Cloudflare. (http://www.cloudflare.com)",
+                "Database knowledge expert and administrator for all engineering groups (business intelligence, e-commerce, social media, etc)."
             ]
         },
         "SugarCRM": {
@@ -95,10 +95,10 @@
             "position": "Operations Engineer",
             "highlights": [
                 "Maintained private cloud infrastructure in two remote data centers (San Jose, CA and London, England).",
-                "Implemented Puppet server management and Cobbler server provisioning systems across private cloud.",
-                "Maintained and verified internal and customer backups using internal custom applications.",
+                "Implemented Puppet/Cobbler configuration management and provisioning system.",
+                "Maintained and verified internal and customer backups using custom internal applications.",
                 "Virtualized redundant and under utilized systems using Xen hypervisor.",
-                "Laid groundwork for department disaster recovery policy.",
+                "Developed department disaster recovery policy.",
                 "Worked remotely from Atlanta GA."
             ]
         },
@@ -108,10 +108,11 @@
             "location": "Atlanta, GA",
             "position": "Systems Administrator",
             "highlights": [
-                "Maintained companyâ€™s ~2500 Debian Linux and FreeBSD servers.",
-                "Maintained client large scale PHP/MySQL applications running across load balanced web front ends and clustered database servers.",
-                "Implemented network monitoring system based on SNMP and watchdogd.^LPorted company custom Linux applications to FreeBSD.",
-                "Implemented local FreeBSD CVS source mirror and compiled custom distributions for internal company use."
+                "Provided production support for ~2500 Debian Linux and FreeBSD servers.",
+                "Provided production support for client large scale PHP/MySQL applications running across load balanced web front ends and clustered database servers.",
+                "Implemented network monitoring system based on SNMP and watchdogd.",
+                "Ported custom Linux applications to FreeBSD.",
+                "Implemented local FreeBSD CVS source mirror and compiled custom distributions for internal use."
             ]
         },
         "education": {
