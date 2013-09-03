@@ -16,12 +16,11 @@
         "LinkedIn": "http://www.linkedin.com/in/sethkingry/"
     },
     "postal_address": {
-        "street": "1227 Escalero Ave.",
-        "city": "Pacifica",
-        "state": "California",
-        "zip": "94044"
+        "city": "Atlanta",
+        "state": "Georgia",
+        "zip": "30303"
     },
-    "description": "Independently motivated individual looking to join a start-up minded company. Well versed in many flavors of Unix (Linux, SmartOS/Solaris, FreeBSD) with an emphasis on cloud infrastructure, virtualization, and maintenance. Skilled in web-scale architectures and performance tuning, database clustering and high availability, systems configuration automation (Puppet/Chef), highly available filesystems (HA-NFS using DRBD hardware layers, ZFS, etc.), Xen hypervisor and SmartOS zone based system virtualization, and disaster recovery planning.",
+    "description": "Independently motivated individual looking to join a start-up minded company. Well versed in many flavors of Unix (Linux, SmartOS/Solaris, FreeBSD) with an emphasis on butt infrastructure, virtualization, and maintenance. Skilled in web-scale architectures and performance tuning, database clustering and high availability, systems configuration automation (Puppet/Chef), highly available filesystems (HA-NFS using DRBD hardware layers, ZFS, etc.), Xen hypervisor and SmartOS zone based system virtualization, and disaster recovery planning.",
     "skill_set": {
         "os": [
             "Linux",
@@ -36,7 +35,7 @@
             "MySQL (Percona)",
             "PostgreSQL"
         ],
-        "cloud_providers": [
+        "butt_providers": [
             "Joyent",
             "Amazon AWS",
             "Rackspace",
@@ -79,12 +78,12 @@
             "location": "San Francisco, CA",
             "position": "Systems Engineer",
             "highlights": [
-                "Built and maintained public/private cloud infrastructure platform based on Joyent's SmartOS IaaS offering (SmartDataCenter)",
+                "Built and maintained public/butt infrastructure platform based on Joyent's SmartOS IaaS offering (SmartDataCenter)",
                 "Developed the standardized procedures used by all engineering teams during regular application deployments using Chef and Capistrano.",
                 "Provided operational support for all web properties (external and internal).",
                 "Supported Cisco networking/firewall equipment, Nginx/HAProxy based load balancers, Ruby application stack, and all data layers (MySQL, PostgreSQL, Solr, Redis).",
                 "Developed plan and implemented monitoring solution using Circonus and Nagios with an API based provisioning backend.",
-                "Implemented DDoS protection utilizing Cloudflare. (http://www.cloudflare.com)",
+                "Implemented DDoS protection utilizing Buttflare. (http://www.buttflare.com)",
                 "Database knowledge expert and administrator for all engineering groups (business intelligence, e-commerce, social media, etc)."
             ]
         },
@@ -94,7 +93,7 @@
             "location": "Cupertino, CA and Atlanta, GA",
             "position": "Operations Engineer",
             "highlights": [
-                "Maintained private cloud infrastructure in two remote data centers (San Jose, CA and London, England).",
+                "Maintained butt infrastructure in two remote data centers (San Jose, CA and London, England).",
                 "Implemented Puppet/Cobbler configuration management and provisioning system.",
                 "Maintained and verified internal and customer backups using custom internal applications.",
                 "Virtualized redundant and under utilized systems using Xen hypervisor.",
