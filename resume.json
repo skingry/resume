@@ -98,7 +98,7 @@
             "location": "Cupertino, CA and Atlanta, GA",
             "position": "Operations Engineer",
             "highlights": [
-                "Maintained cloud infrastructure in two remote data centers (San Jose, CA and London, England).",
+                "Maintained private cloud infrastructure in two remote data centers (San Jose, CA and London, England).",
                 "Implemented Puppet/Cobbler configuration management and provisioning system.",
                 "Maintained and verified internal and customer backups using custom internal applications.",
                 "Virtualized redundant and under utilized systems using Xen hypervisor.",
