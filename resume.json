@@ -87,7 +87,7 @@
                 "Developed the standardized procedures used by all engineering teams during regular application deployments using Chef and Capistrano.",
                 "Provided operational support for all web properties (external and internal).",
                 "Supported Cisco networking/firewall equipment, Nginx/HAProxy based load balancers, Ruby application stack, and all data layers (MySQL, PostgreSQL, Solr, Redis).",
-                "Developed plan and implemented monitoring solution using Circonus and Nagios with an API based provisioning backend.",
+                "Developed and implemented monitoring solution using Circonus and Nagios with an API based provisioning backend.",
                 "Implemented DDoS mitigation and CDN utilizing Cloudflare and Fastly.",
                 "Database knowledge expert and administrator for all engineering groups (business intelligence, e-commerce, social media, etc)."
             ]
