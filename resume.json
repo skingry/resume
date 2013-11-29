@@ -64,7 +64,8 @@
         "coding_languages": [
             "Bash",
             "PHP",
-            "Ruby"
+            "Ruby",
+            "Python"
         ],
         "networking": [
             "Cisco",
