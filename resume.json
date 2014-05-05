@@ -78,9 +78,18 @@
         ]
     },
     "experience": {
+        "Independant Consultant": {
+            "time_start": "September 2013",
+            "time_end": "Ongoing",
+            "location": "Atlanta, GA",
+            "highlights": [
+                "Providing web operations and systems engineering expertise to clients in the retail and software industries."
+                "Clients include: Shopify, SugarCRM, IBM, various non-profits in the Atlanta area."
+            ]
+        },
         "ModCloth": {
             "time_start": "October 2011",
-            "time_end": "October 2013",
+            "time_end": "September 2013",
             "location": "San Francisco, CA",
             "position": "Systems Engineer",
             "highlights": [
