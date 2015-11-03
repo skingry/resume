@@ -20,7 +20,7 @@
         "state": "Georgia",
         "zip": "30303"
     },
-    "description": "Independently motivated individual looking to join a start-up minded company. Well versed in many flavors of Unix (Linux, SmartOS/Solaris, FreeBSD) with an emphasis on cloud infrastructure, virtualization, and maintenance. Skilled in web-scale architectures and performance tuning, database clustering and high availability, systems configuration automation (Puppet/Chef), highly available filesystems (HA-NFS using DRBD hardware layers, ZFS, etc.), Xen hypervisor and SmartOS zone based system virtualization, and disaster recovery planning.",
+    "description": "Full on wizard with all sorts of stuff (I've been doing this for close to 12 years now) .  Don't mean to brag, but I really am like Gandalf when it comes to tech.",
     "skill_set": {
         "os": [
             "Linux",
@@ -31,15 +31,32 @@
             "Chef",
             "Puppet"
         ],
-        "database": [
+        "row_database": [
             "MySQL (Percona)",
             "PostgreSQL"
         ],
-        "cloud_infrastructure_providers": [
+        "columnar_database": [
+            "HP Vertica",
+            "AWS Redshift"
+        ],
+        "other_database": [
+            "MongoDb"
+        ],
+        "data_visualization": [
+            "Pentaho",
+            "Tableau",
+            "Apache Spark"
+        ],
+        "IaaS_providers": [
             "Joyent",
-            "Amazon (AWS)",
-            "Rackspace",
-            "Xen"
+            "Amazon (AWS EC2)"
+        ],
+        "PaaS_providers": [
+            "Amazon (AWS Lambda)",
+            "Heroku"
+        ],
+        "virtualization_tools": [
+            "virtualbox/vagrant"
         ],
         "load_balancers": [
             "HAProxy",
@@ -65,11 +82,16 @@
             "Bash",
             "PHP",
             "Ruby",
-            "Python"
+            "Python",
+            "Node.js"
         ],
         "networking": [
             "Cisco",
-            "Juniper"
+            "Juniper",
+            "Ubiquiti"
+        ],
+        "voip_telephony": [
+            "RingCentral"
         ],
         "cdn_providers": [
             "Fastly",
@@ -84,7 +106,8 @@
             "location": "Atlanta, GA",
             "highlights": [
                 "Providing web operations and systems engineering expertise to clients in the retail and software industries.",
-                "Clients include: Shopify, SugarCRM, IBM, Tourbuzz, and various non-profits in the Atlanta area."
+                "Clients include: Shopify, SugarCRM, IBM, Tourbuzz, and various non-profits in the Atlanta area.",
+                "Here's an incomplete list of some of the things I've done with during this phase of my career: split a monolithic PHP application into a myriad of microservices; built a data warehouse/BI platform using several columnar Db solutions and data visualization tools; built an office network complete with multiple VLAN's, QoS, and VoIP based IVR's; rewrote an entire Chef setup from the ground up in 5 weeks..."
             ]
         },
         "ModCloth": {
