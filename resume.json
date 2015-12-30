@@ -40,7 +40,8 @@
             "AWS Redshift"
         ],
         "other_database": [
-            "MongoDb"
+            "MongoDb",
+            "DynamoDB"
         ],
         "data_visualization": [
             "Pentaho",
