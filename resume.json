@@ -32,8 +32,8 @@
       "company": "Independent Consultant",
       "position": "Owner",
       "website": "",
-      "startDate": "September 2013",
-      "endDate": "Ongoing",
+      "startDate": "2013-09",
+      "endDate": "",
       "summary": "",
       "highlights": [
         "Providing web operations and systems engineering expertise to clients in the retail and software industries."
@@ -43,8 +43,8 @@
       "company": "Tourbuzz",
       "position": "Web and IT Operations",
       "website": "",
-      "startDate": "August 2014",
-      "endDate": "Ongoing",
+      "startDate": "2014-08",
+      "endDate": "",
       "summary": "",
       "highlights": [
         "Upgraded and consolidated infrastructure configuration management (Chef) into a single maintainable codebase.",
@@ -58,8 +58,8 @@
       "company": "Shopify",
       "position": "Web Operations Specialist",
       "website": "",
-      "startDate": "October 2013",
-      "endDate": "October 2014",
+      "startDate": "2013-10",
+      "endDate": "2014-10",
       "summary": "",
       "highlights": [
         "Implemented monitoring solution for web infrastructure utilizing statsd and DataDog.",
@@ -73,8 +73,8 @@
       "company": "SugarCRM/IBM",
       "position": "Contract",
       "website": "",
-      "startDate": "February 2014",
-      "endDate": "March 2014",
+      "startDate": "2014-02",
+      "endDate": "2014-03",
       "summary": "",
       "highlights": [
         "Built custom binary packages of Percona 5.5 and 5.6 for IBM POWER8 CPU architecture.",
@@ -85,8 +85,8 @@
       "company": "ModCloth",
       "position": "Systems Engineer",
       "website": "",
-      "startDate": "October 2011",
-      "endDate": "September 2013",
+      "startDate": "2011-10",
+      "endDate": "2013-09",
       "summary": "",
       "highlights": [
         "Built and maintained cloud infrastructure platform based on Joyent's SmartOS IaaS offering (SmartDataCenter)",
@@ -102,8 +102,8 @@
       "company": "SugarCRM",
       "position": "Operations Engineer",
       "website": "",
-      "startDate": "September 2008",
-      "endDate": "September 2011",
+      "startDate": "2008-09",
+      "endDate": "2011-09",
       "summary": "",
       "highlights": [
         "Maintained private cloud infrastructure in two remote data centers (San Jose, CA and London, England).",
@@ -118,8 +118,8 @@
       "company": "NationalNet",
       "position": "Systems Administrator",
       "website": "",
-      "startDate": "October 2004",
-      "endDate": "September 2008",
+      "startDate": "2004-10",
+      "endDate": "2008-09",
       "summary": "",
       "highlights": [
         "Provided production support for ~2500 Debian Linux and FreeBSD servers.",
@@ -136,8 +136,8 @@
       "institution": "Kennesaw State University",
       "area": "Mathematics",
       "studyType": "",
-      "startDate": "Spring 2003",
-      "endDate": "Fall 2004",
+      "startDate": "2003-01",
+      "endDate": "2004-12",
       "gpa": "",
       "courses": []
     },
@@ -145,8 +145,8 @@
       "institution": "Southern Polytechnic State University",
       "area": "Physics",
       "studyType": "",
-      "startDate": "Fall 1998",
-      "endDate": "Spring 2001",
+      "startDate": "1998-08",
+      "endDate": "2001-06",
       "gpa": "",
       "courses": []
     }

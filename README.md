@@ -21,7 +21,7 @@ If you would like to see a single page rendering of the JSON data...
 3. Do a little bit of this:
 
    ```
-   resume serve --theme slick
+   resume serve --theme slicker
    ```
 
 4. ????
