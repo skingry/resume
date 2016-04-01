@@ -3,36 +3,38 @@
     "name": "Seth J. Kingry",
     "label": "Web Operations Specialist",
     "picture": "https://www.gravatar.com/avatar/24442da8a602aba08219cabf3a939bde?s=100",
-    "phone": "(408) 334-3195",
     "email": "sjkingry@gmail.com",
-    "summary": "Independently motivated individual looking to join a start-up minded company. Well versed in many flavors of Unix (Linux, SmartOS/Solaris, FreeBSD) with an emphasis on cloud infrastructure, virtualization, and maintenance. Skilled in web-scale architectures and performance tuning, database clustering and high availability, systems configuration automation (Puppet/Chef), hypervisor and SmartOS zone based system virtualization, and disaster recovery planning.",
+    "phone": "(408) 334-3195",
+    "website": "",
+    "summary": "",
     "location": {
-      "city": "Atlanta",
+      "address": "",
       "postalCode": "GA, 30303",
+      "city": "Atlanta",
       "countryCode": "US",
       "region": "Georgia"
-    }
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "skingry",
+        "url": "https://www.twitter.com/skingry"
+      },
+      {
+        "network": "GitHub",
+        "username": "skingry",
+        "url": "https://www.github.com/skingry"
+      }
+    ]
   },
-  "profiles": [
-    {
-      "network": "Twitter",
-      "url": "https://www.twitter.com/skingry"
-    },
-    {
-      "network": "GitHub",
-      "url": "https://www.github.com/skingry"
-    },
-    {
-      "network": "LinkedIn",
-      "url": "http://www.linkedin.com/in/sethkingry/"
-    }
-  ],
   "work": [
     {
-      "company": "Independant Consultant",
+      "company": "Independent Consultant",
       "position": "Owner",
+      "website": "",
       "startDate": "September 2013",
       "endDate": "Ongoing",
+      "summary": "",
       "highlights": [
         "Providing web operations and systems engineering expertise to clients in the retail and software industries."
       ]
@@ -40,8 +42,10 @@
     {
       "company": "Tourbuzz",
       "position": "Web and IT Operations",
+      "website": "",
       "startDate": "August 2014",
       "endDate": "Ongoing",
+      "summary": "",
       "highlights": [
         "Upgraded and consolidated infrastructure configuration management (Chef) into a single maintainable codebase.",
         "Built tooling used by development and support teams (Vagrant, Capistrano, VoIP telephony integrations).",
@@ -53,8 +57,10 @@
     {
       "company": "Shopify",
       "position": "Web Operations Specialist",
+      "website": "",
       "startDate": "October 2013",
       "endDate": "October 2014",
+      "summary": "",
       "highlights": [
         "Implemented monitoring solution for web infrastructure utilizing statsd and DataDog.",
         "Provided day to day and on-call operational support for all web properties running in a colocated data center.",
@@ -64,10 +70,12 @@
       ]
     },
     {
-      "company": "SugarCRM",
+      "company": "SugarCRM/IBM",
       "position": "Contract",
+      "website": "",
       "startDate": "February 2014",
       "endDate": "March 2014",
+      "summary": "",
       "highlights": [
         "Built custom binary packages of Percona 5.5 and 5.6 for IBM POWER8 CPU architecture.",
         "Load tested and benchmarked SugarCRM application on pre-production IBM POWER8 hardware."
@@ -76,8 +84,10 @@
     {
       "company": "ModCloth",
       "position": "Systems Engineer",
+      "website": "",
       "startDate": "October 2011",
       "endDate": "September 2013",
+      "summary": "",
       "highlights": [
         "Built and maintained cloud infrastructure platform based on Joyent's SmartOS IaaS offering (SmartDataCenter)",
         "Developed the standardized procedures used by all engineering teams during regular application deployments using Chef and Capistrano.",
@@ -91,8 +101,10 @@
     {
       "company": "SugarCRM",
       "position": "Operations Engineer",
+      "website": "",
       "startDate": "September 2008",
-      "endDate": "September 2011",
+      "endDate": "September 2001",
+      "summary": "",
       "highlights": [
         "Maintained private cloud infrastructure in two remote data centers (San Jose, CA and London, England).",
         "Implemented Puppet/Cobbler configuration management and provisioning system.",
@@ -105,8 +117,10 @@
     {
       "company": "NationalNet",
       "position": "Systems Administrator",
+      "website": "",
       "startDate": "October 2004",
       "endDate": "September 2008",
+      "summary": "",
       "highlights": [
         "Provided production support for ~2500 Debian Linux and FreeBSD servers.",
         "Provided production support for client large scale PHP/MySQL applications running across load balanced web front ends and clustered database servers.",
@@ -116,9 +130,33 @@
       ]
     }
   ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Kennesaw State University",
+      "area": "Mathematics",
+      "studyType": "",
+      "startDate": "Spring 2003",
+      "endDate": "Fall 2004",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Southern Polytechnic State University",
+      "area": "Physics",
+      "studyType": "",
+      "startDate": "Fall 1998",
+      "endDate": "Spring 2001",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
   "skills": [
     {
       "name": "Configuration Management",
+      "level": "",
       "keywords": [
         "Chef",
         "Puppet"
@@ -126,14 +164,16 @@
     },
     {
       "name": "Databases",
+      "level": "",
       "keywords": [
         "MySQL (Percona)",
         "PostgreSQL",
-        "DynamoDb"
+        "DynamoDB"
       ]
     },
     {
       "name": "Cloud Technologies and Providers",
+      "level": "",
       "keywords": [
         "Joyent SmartDataCenter",
         "Amazon (AWS)",
@@ -142,6 +182,7 @@
     },
     {
       "name": "Coding Languages",
+      "level": "",
       "keywords": [
         "Bash",
         "Ruby",
@@ -150,41 +191,22 @@
       ]
     }
   ],
-  "education": [
-    {
-      "institution": "Kennesaw State University",
-      "area": "Mathematics",
-      "startDate": "Spring 2003",
-      "endDate": "Fall 2004",
-      "clubs": [
-        "Linux User's Group"
-      ]
-    },
-    {
-      "institution": "Southern Polytechnic State University",
-      "area": "Physics",
-      "startDate": "Fall 1998",
-      "endDate": "Spring 2001",
-      "clubs": [
-        "Aerial Robotics Team"
-      ]
-    }
-  ],
+  "languages": [],
   "interests": [
     {
       "name": "Hobbies",
       "keywords": [
-        "small scale organic farming",
-        "mountain biking"
+        "Small Scale Organic Farming",
+        "Mountain Biking"
       ]
     },
     {
       "name": "Other",
       "keywords": [
-        "pyrotechnics",
-        "independent films"
+        "Pyrotechnics",
+        "Independent Films"
       ]
     }
-  ]
+  ],
+  "references": []
 }
-

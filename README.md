@@ -13,7 +13,7 @@ If you would like to see a pretty rendering of it (and possibly do a PDF print o
 
 ...and then do a little bit of this:
 
-`resume serve`
+`resume serve --theme slick`
 
 Et Voila!
 
