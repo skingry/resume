@@ -194,18 +194,20 @@
   "languages": [],
   "interests": [
     {
-      "name": "Hobbies",
-      "keywords": [
-        "Small Scale Organic Farming",
-        "Mountain Biking"
-      ]
+      "name": "Small Scale Organic Farming",
+      "keywords": []
     },
     {
-      "name": "Other",
-      "keywords": [
-        "Pyrotechnics",
-        "Independent Films"
-      ]
+      "name": "Mountain Biking",
+      "keywords": []
+    },
+    {
+      "name": "Pyrotechnics",
+      "keywords": []
+    },
+    {
+      "name": "Independent Films",
+      "keywords": []
     }
   ],
   "references": []
