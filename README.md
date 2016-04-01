@@ -1,10 +1,8 @@
-Summary
-======
+## Summary
 
 Want to know what I've done and what I'm good at?  Well look no further, it's my resume in easily parsible JSON!!!!
 
-How do I make it look "pretty"?
-======
+## How do I make it look "pretty"?
 
 If you would like to see a single page rendering of the JSON data...
 
@@ -34,5 +32,6 @@ If you would like to see a single page rendering of the JSON data...
 
 5. Profit!
 
+   ![screenshot](https://media.giphy.com/media/9o67upvAnOqRy/giphy.gif)
 
 
