@@ -1,22 +1,38 @@
-My Resume
+Summary
 ======
 
-Howdy recruiters!  Want to know what I've done and what I'm good at?  Well look no further, it's my resume in easily parsible JSON!!!!
+Want to know what I've done and what I'm good at?  Well look no further, it's my resume in easily parsible JSON!!!!
 
-If you would like to see a pretty rendering of it (and possibly do a PDF print of it to put into your HR system), feel free to install the [resume NPM package](https://jsonresume.org/)  via:
+How do I make it look "pretty"?
+======
 
-`sudo npm install -g resume`
+If you would like to see a single page rendering of the JSON data...
 
-...clone this repo...
+1. Install the [resume NPM package](https://jsonresume.org/):
 
-`git clone https://github.com/skingry/resume.git`
+   ```
+   sudo npm install -g resume
+   ```
 
-...and then do a little bit of this:
+2. Clone this repo:
 
-`resume serve --theme slick`
+   ```
+   git clone https://github.com/skingry/resume.git
+   ```
 
-Et Voila!
+3. Do a little bit of this:
 
+   ```
+   resume serve --theme slick
+   ```
+
+4. ????
+
+   ```
+   Et Voila!
+   ```
+
+5. Profit!
 
 
 
