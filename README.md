@@ -35,4 +35,5 @@ If you would like to see a single page rendering of the JSON data...
    ![screenshot](https://media.giphy.com/media/9o67upvAnOqRy/giphy.gif)
 
 
+***
 Give me a call or shoot me an email if you'd like pointers on making this simple resume web application "#webscale" :)
