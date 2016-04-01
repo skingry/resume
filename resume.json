@@ -29,17 +29,6 @@
   },
   "work": [
     {
-      "company": "Independent Consultant",
-      "position": "Owner",
-      "website": "",
-      "startDate": "2013-09",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Providing web operations and systems engineering expertise to clients in the retail and software industries."
-      ]
-    },
-    {
       "company": "Tourbuzz",
       "position": "Web and IT Operations",
       "website": "",
@@ -55,6 +44,18 @@
       ]
     },
     {
+      "company": "SugarCRM/IBM",
+      "position": "Part-Time Contract",
+      "website": "",
+      "startDate": "2014-02",
+      "endDate": "2014-03",
+      "summary": "",
+      "highlights": [
+        "Built custom binary packages of Percona 5.5 and 5.6 for IBM POWER8 CPU architecture.",
+        "Load tested and benchmarked SugarCRM application on pre-production IBM POWER8 hardware."
+      ]
+    },
+    {
       "company": "Shopify",
       "position": "Web Operations Specialist",
       "website": "",
@@ -67,18 +68,6 @@
         "Implemented and supported company's data warehouse running on Amazon Redshift.",
         "Provided support and tooling for business intelligence and data teams (Tableau, HP Vertica, Cloudera).",
         "Worked remotely from Atlanta, GA."
-      ]
-    },
-    {
-      "company": "SugarCRM/IBM",
-      "position": "Contract",
-      "website": "",
-      "startDate": "2014-02",
-      "endDate": "2014-03",
-      "summary": "",
-      "highlights": [
-        "Built custom binary packages of Percona 5.5 and 5.6 for IBM POWER8 CPU architecture.",
-        "Load tested and benchmarked SugarCRM application on pre-production IBM POWER8 hardware."
       ]
     },
     {
