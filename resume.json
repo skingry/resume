@@ -1,184 +1,189 @@
 {
-    "name": {
-        "first": "Seth",
-        "initial": "J.",
-        "last": "Kingry"
-    },
-    "phone_number": {
-        "area_code": "408",
-        "prefix": "334",
-        "extension": "3195"
-    },
-    "email": "sjkingry@gmail.com",
-    "social_media": {
-        "Twitter": "http://www.twitter.com/skingry",
-        "Github": "http://www.github.com/skingry",
-        "LinkedIn": "http://www.linkedin.com/in/sethkingry/"
-    },
-    "postal_address": {
-        "city": "Atlanta",
-        "state": "Georgia",
-        "zip": "30303"
-    },
-    "description": "Full on wizard with all sorts of stuff (I've been doing this for close to 12 years now) .  Don't mean to brag, but I really am like Gandalf when it comes to tech.",
-    "skill_set": {
-        "os": [
-            "Linux",
-            "SmartOS (Solaris)",
-            "FreeBSD"
-        ],
-        "configuration_managment": [
-            "Chef",
-            "Puppet"
-        ],
-        "row_database": [
-            "MySQL (Percona)",
-            "PostgreSQL"
-        ],
-        "columnar_database": [
-            "HP Vertica",
-            "AWS Redshift"
-        ],
-        "other_database": [
-            "MongoDb",
-            "DynamoDB"
-        ],
-        "data_visualization": [
-            "Pentaho",
-            "Tableau",
-            "Apache Spark"
-        ],
-        "IaaS_providers": [
-            "Joyent",
-            "Amazon (AWS EC2)"
-        ],
-        "PaaS_providers": [
-            "Amazon (AWS Lambda)",
-            "Heroku"
-        ],
-        "virtualization_tools": [
-            "virtualbox/vagrant"
-        ],
-        "load_balancers": [
-            "HAProxy",
-            "Stingray (Zeus)"
-        ],
-        "reverse_proxies": [
-            "Nginx",
-            "Apache"
-        ],
-        "dns": [
-            "BIND9",
-            "PowerDNS"
-        ],
-        "cache_and_session": [
-            "Redis",
-            "Memcached"
-        ],
-        "mailers": [
-            "Postfix",
-            "Sendmail"
-        ],
-        "coding_languages": [
-            "Bash",
-            "PHP",
-            "Ruby",
-            "Python",
-            "Node.js"
-        ],
-        "networking": [
-            "Cisco",
-            "Juniper",
-            "Ubiquiti"
-        ],
-        "voip_telephony": [
-            "RingCentral"
-        ],
-        "cdn_providers": [
-            "Fastly",
-            "Cloudflare",
-            "Akamai"
-        ]
-    },
-    "experience": {
-        "Independant Consultant": {
-            "time_start": "September 2013",
-            "time_end": "Ongoing",
-            "location": "Atlanta, GA",
-            "highlights": [
-                "Providing web operations and systems engineering expertise to clients in the retail and software industries.",
-                "Clients include: Shopify, SugarCRM, IBM, Tourbuzz, and various non-profits in the Atlanta area.",
-                "Here's an incomplete list of some of the things I've done with during this phase of my career: split a monolithic PHP application into a myriad of microservices; built a data warehouse/BI platform using several columnar Db solutions and data visualization tools; built an office network complete with multiple VLAN's, QoS, and VoIP based IVR's; rewrote an entire Chef setup from the ground up in 5 weeks..."
-            ]
-        },
-        "ModCloth": {
-            "time_start": "October 2011",
-            "time_end": "September 2013",
-            "location": "San Francisco, CA",
-            "position": "Systems Engineer",
-            "highlights": [
-                "Built and maintained cloud infrastructure platform based on Joyent's SmartOS IaaS offering (SmartDataCenter)",
-                "Developed the standardized procedures used by all engineering teams during regular application deployments using Chef and Capistrano.",
-                "Provided operational support for all web properties (external and internal).",
-                "Supported Cisco networking/firewall equipment, Nginx/HAProxy based load balancers, Ruby application stack, and all data layers (MySQL, PostgreSQL, Solr, Redis).",
-                "Developed and implemented monitoring solution using Circonus and Nagios with an API based provisioning backend.",
-                "Implemented DDoS mitigation and CDN utilizing Cloudflare and Fastly.",
-                "Database knowledge expert and administrator for all engineering groups (business intelligence, e-commerce, social media, etc)."
-            ]
-        },
-        "SugarCRM": {
-            "time_start": "September 2008",
-            "time_end": "September 2011",
-            "location": "Cupertino, CA and Atlanta, GA",
-            "position": "Operations Engineer",
-            "highlights": [
-                "Maintained private cloud infrastructure in two remote data centers (San Jose, CA and London, England).",
-                "Implemented Puppet/Cobbler configuration management and provisioning system.",
-                "Maintained and verified internal and customer backups using custom internal applications.",
-                "Virtualized redundant and under utilized systems using Xen hypervisor.",
-                "Developed department disaster recovery policy.",
-                "Worked remotely from Atlanta GA."
-            ]
-        },
-        "NationalNet": {
-            "time_start": "October 2004",
-            "time_end": "September 2008",
-            "location": "Atlanta, GA",
-            "position": "Systems Administrator",
-            "highlights": [
-                "Provided production support for ~2500 Debian Linux and FreeBSD servers.",
-                "Provided production support for client large scale PHP/MySQL applications running across load balanced web front ends and clustered database servers.",
-                "Implemented network monitoring system based on SNMP and watchdogd.",
-                "Ported custom Linux applications to FreeBSD.",
-                "Implemented local FreeBSD CVS source mirror and compiled custom distributions for internal use."
-            ]
-        },
-        "education": {
-            "Kennesaw State University": {
-                "location": "Kennesaw, GA",
-                "time_start": "2003",
-                "time_end": "2004",
-                "course_of_study": "Mathematics",
-                "extra_curricular": [
-                    "Linux User's Group"
-                ]
-            },
-            "Southern Polytechnic State University": {
-                "location": "Marietta, GA",
-                "time_start": "1998",
-                "time_end": "2001",
-                "course_of_study": "Physics",
-                "extra_curricular": [
-                    "Aerial Robotics Team"
-                ]
-            }
-        },
-        "other_interests": [
-            "small scale farming",
-            "mountain biking",
-            "pyrotechnics",
-            "independent films"
-        ]
+  "basics": {
+    "name": "Seth J. Kingry",
+    "label": "Web Operations Specialist",
+    "picture": "https://www.gravatar.com/avatar/24442da8a602aba08219cabf3a939bde?s=100",
+    "phone": "(408) 334-3195",
+    "summary": "Independently motivated individual looking to join a start-up minded company. Well versed in many flavors of Unix (Linux, SmartOS/Solaris, FreeBSD) with an emphasis on cloud infrastructure, virtualization, and maintenance. Skilled in web-scale architectures and performance tuning, database clustering and high availability, systems configuration automation (Puppet/Chef), hypervisor and SmartOS zone based system virtualization, and disaster recovery planning.",
+    "location": {
+      "city": "Atlanta",
+      "postalCode": "GA, 30303",
+      "countryCode": "US",
+      "region": "Georgia"
     }
+  },
+  "profiles": [
+    {
+      "network": "Twitter",
+      "url": "https://www.twitter.com/skingry"
+    },
+    {
+      "network": "GitHub",
+      "url": "https://www.github.com/skingry"
+    },
+    {
+      "network": "LinkedIn",
+      "url": "http://www.linkedin.com/in/sethkingry/"
+    }
+  ],
+  "work": [
+    {
+      "company": "Independant Consultant",
+      "position": "Owner",
+      "startDate": "September 2013",
+      "endDate": "Ongoing",
+      "highlights": [
+        "Providing web operations and systems engineering expertise to clients in the retail and software industries."
+      ]
+    },
+    {
+      "company": "Tourbuzz",
+      "position": "Web and IT Operations",
+      "startDate": "August 2014",
+      "endDate": "Ongoing",
+      "highlights": [
+        "Upgraded and consolidated infrastructure configuration management (Chef) into a single maintainable codebase.",
+        "Built tooling used by development and support teams (Vagrant, Capistrano, VoIP telephony integrations).",
+        "Provided day to day and on-call operational support for all web properties running on Amazon AWS.",
+        "Maintained company's internal network (Ubiquiti, Mikrotik, Synology) and provided IT support to 20 employees.",
+        "Migrated specific components of primary web product to microservices."
+      ]
+    },
+    {
+      "company": "Shopify",
+      "position": "Web Operations Specialist",
+      "startDate": "October 2013",
+      "endDate": "October 2014",
+      "highlights": [
+        "Implemented monitoring solution for web infrastructure utilizing statsd and DataDog.",
+        "Provided day to day and on-call operational support for all web properties running in a colocated data center.",
+        "Implemented and supported company's data warehouse running on Amazon Redshift.",
+        "Provided support and tooling for business intelligence and data teams (Tableau, HP Vertica, Cloudera).",
+        "Worked remotely from Atlanta, GA."
+      ]
+    },
+    {
+      "company": "SugarCRM",
+      "position": "Contract",
+      "startDate": "February 2014",
+      "endDate": "March 2014",
+      "highlights": [
+        "Built custom binary packages of Percona 5.5 and 5.6 for IBM POWER8 CPU architecture.",
+        "Load tested and benchmarked SugarCRM application on pre-production IBM POWER8 hardware."
+      ]
+    },
+    {
+      "company": "ModCloth",
+      "position": "Systems Engineer",
+      "startDate": "October 2011",
+      "endDate": "September 2013",
+      "highlights": [
+        "Built and maintained cloud infrastructure platform based on Joyent's SmartOS IaaS offering (SmartDataCenter)",
+        "Developed the standardized procedures used by all engineering teams during regular application deployments using Chef and Capistrano.",
+        "Provided operational support for all web properties (external and internal).",
+        "Supported Cisco networking/firewall equipment, Nginx/HAProxy based load balancers, Ruby application stack, and all data layers (MySQL, PostgreSQL, Solr, Redis).",
+        "Developed and implemented monitoring solution using Circonus and Nagios.",
+        "Implemented DDoS mitigation and CDN utilizing Cloudflare and Fastly.",
+        "Database knowledge expert and administrator for all engineering groups (business intelligence, e-commerce, social media, etc)."
+      ]
+    },
+    {
+      "company": "SugarCRM",
+      "position": "Operations Engineer",
+      "startDate": "September 2008",
+      "endDate": "September 2011",
+      "highlights": [
+        "Maintained private cloud infrastructure in two remote data centers (San Jose, CA and London, England).",
+        "Implemented Puppet/Cobbler configuration management and provisioning system.",
+        "Maintained and verified internal and customer backups using custom internal applications.",
+        "Virtualized redundant and under utilized systems using Xen hypervisor.",
+        "Developed department disaster recovery policy.",
+        "Worked remotely from Atlanta GA."
+      ]
+    },
+    {
+      "company": "NationalNet",
+      "position": "Systems Administrator",
+      "startDate": "October 2004",
+      "endDate": "September 2008",
+      "highlights": [
+        "Provided production support for ~2500 Debian Linux and FreeBSD servers.",
+        "Provided production support for client large scale PHP/MySQL applications running across load balanced web front ends and clustered database servers.",
+        "Implemented network monitoring system based on SNMP and watchdogd.",
+        "Ported custom Linux applications to FreeBSD.",
+        "Implemented local FreeBSD CVS source mirror and compiled custom distributions for internal use."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Configuration Management",
+      "keywords": [
+        "Chef",
+        "Puppet"
+      ]
+    },
+    {
+      "name": "Databases",
+      "keywords": [
+        "MySQL (Percona)",
+        "PostgreSQL",
+        "DynamoDb"
+      ]
+    },
+    {
+      "name": "Cloud Technologies and Providers",
+      "keywords": [
+        "Joyent SmartDataCenter",
+        "Amazon (AWS)",
+        "Heroku"
+      ]
+    },
+    {
+      "name": "Coding Languages",
+      "keywords": [
+        "Bash",
+        "Ruby",
+        "Python",
+        "Node.js"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Kennesaw State University",
+      "area": "Mathematics",
+      "startDate": "Spring 2003",
+      "endDate": "Fall 2004",
+      "clubs": [
+        "Linux User's Group"
+      ]
+    },
+    {
+      "institution": "Southern Polytechnic State University",
+      "area": "Physics",
+      "startDate": "Fall 1998",
+      "endDate": "Spring 2001",
+      "clubs": [
+        "Aerial Robotics Team"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Hobbies",
+      "keywords": [
+        "small scale organic farming",
+        "mountain biking"
+      ]
+    },
+    {
+      "name": "Other",
+      "keywords": [
+        "pyrotechnics",
+        "independent films"
+      ]
+    }
+  ]
 }
 
