@@ -9,7 +9,7 @@ If you would like to see a single page rendering of the JSON data...
 1. Install the [resume NPM package](https://jsonresume.org/):
 
    ```
-   sudo npm install -g resume
+   npm install -g resume-cli
    ```
 
 2. Clone this repo:
