@@ -56,4 +56,4 @@ An example of how to do that would be:
   ```
 
 ***
-If you've gotten this far... give me a call or shoot me an email if you'd like pointers on making this simple resume web application "#webscale" :)
+If you've gotten this far... give me a call or shoot me an email if you'd like to know more... or submit a PR if you really want to impress me :)
