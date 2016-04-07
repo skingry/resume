@@ -1,6 +1,6 @@
 ## Summary
 
-Want to know what I've done and what I'm good at?  Well look no further, it's my resume in easily parsible JSON (sort of)!!!!
+Want to know what I've done and what I'm good at?  Well look no further, it's my resume in easily parsible [JSON](https://en.wikipedia.org/wiki/JSON) (sort of)!!!!
 
 The current format of the raw data is [base64](https://en.wikipedia.org/wiki/Base64).  I chose to do this to protect my personal information from web crawlers (ie. my email address and telephone number). If you'd like a copy that isn't obfuscated, you can either look through the commit history and find a copy... or you can decode it yourself.
 
