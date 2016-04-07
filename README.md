@@ -27,7 +27,11 @@ If you would like to see a single page rendering of the JSON data...
 2. Do a little bit of this:
 
    ```
-   if [ -f resume.json ]; then resume serve --theme slicker; else echo "Decode resume.base64 first."; fi
+   if [ -f resume.json ]; then
+     resume serve --theme slicker
+   else
+     echo "Decode resume.base64 first."
+   fi
    ```
 
 3. ????
