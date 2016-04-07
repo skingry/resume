@@ -52,7 +52,7 @@ Well, you could always print to PDF... or you could use [phantomjs](http://phant
 An example of how to do that would be:
 
   ```
-  phantomjs rasterize.js index.html ~/Desktop/Seth_Kingry-resume.pdf
+  phantomjs output.js ~/Desktop/Seth_Kingry-resume.pdf
   ```
 
 ***
