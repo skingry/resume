@@ -9,6 +9,8 @@ An example of how to do that would be:
   ```
   cat resume.base64 | base64 -D > resume.json
   ```
+  
+If you just prefer to see a short form of this resume, please take a look at my [LinkedIn](https://www.linkedin.com/in/sethkingry) profile.
 
 
 ## Ok.. so I have it in JSON. Now how do I make it look "pretty"?
