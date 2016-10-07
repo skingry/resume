@@ -7,7 +7,11 @@ The current format of the raw data is [base64](https://en.wikipedia.org/wiki/Bas
 An example of how to do that would be:
   
   ```
-  cat resume.base64 | base64 -D > resume.json
+  if [ `uname` = "Darwin" ]; then
+    cat resume.base64 | base64 -D > resume.json
+  else
+    cat resume.base64 | base64 -d > resume.json
+  fi
   ```
   
 If you just prefer to see a short form of this resume, please take a look at my [LinkedIn](https://www.linkedin.com/in/sethkingry) profile.
