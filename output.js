@@ -9,10 +9,10 @@ var page = require('webpage').create(),
     system = require('system'),
     address, output, size;
 
-address = "index.html";
+address = "public/index.html";
 output = system.args[1];
 
-page.viewportSize = { width: 1280, height: 1280 };
+page.viewportSize = { width: 800, height: 800 };
 page.open(address, function (status) {
   if (status !== 'success') {
     console.log('Unable to open index.html! Have you rendered the JSON file to single page output yet?');
