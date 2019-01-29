@@ -27,14 +27,14 @@ If you would like to see a single page rendering of the JSON data...
 
 
    ```
-   npm install -g resume-cli
+   npm install -g resume-cli jsonresume-theme-spartan
    ```
 
 2. Do a little bit of this:
 
    ```
    if [ -f resume.json ]; then
-     resume serve --theme onepage
+     resume export --theme spartan --format html Seth-Kingry && open Seth-Kingry.html
    else
      echo "Decode resume.base64 first. (cat resume.base64 | base64 -D > resume.json)"
    fi
@@ -50,10 +50,6 @@ If you would like to see a single page rendering of the JSON data...
 
    ![screenshot](https://media.giphy.com/media/9o67upvAnOqRy/giphy.gif)
 
-
-## Wow, very nice! I'd like to put this in our HR system for review... how do I get a PDF of the resume?
-
-Well, you could always print to PDF...
 
 ***
 If you've gotten this far... give me a call or shoot me an email if you'd like to know more... or submit a PR if you really want to impress me :)
